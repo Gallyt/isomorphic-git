@@ -47,7 +47,7 @@
   "files": [
     "dist",
     "cli.js",
-    "src/index.d.ts"
+    "src"
   ],
   "dependencies": {
     "@babel/runtime": "^7.0.0",
